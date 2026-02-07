@@ -1,4 +1,4 @@
-Project title: Optimizing Advertising Spend to Maximize Unit Salesthe primary project 
+##project Question: Optimizing Advertising Spend to Maximize Unit Salesthe primary project 
 Question: Which advertising channel (TV, radio, or newspaper) has the strongest measurable impact on unit sales, and how should an advertising budget be distributed to maximize sales performance?
 Specific Question: what  is the Predicted units sold based on ad spend by channel level(high/medium/low)?
 specific Question: what is the marginal increase in units sold for every $10,000 spent?
