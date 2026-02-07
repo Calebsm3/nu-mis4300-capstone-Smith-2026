@@ -5,9 +5,9 @@ Optimizing Advertising Spend to Maximize Unit Salesthe primary project
 ## Questions for this Project
 
  * Which advertising channel (TV, radio, or newspaper) has the strongest measurable impact on unit sales, and how should an advertising budget be distributed to maximize sales performance?
- *  what  is the Predicted units sold based on ad spend by channel level(high/medium/low)?
- *   what is the marginal increase in units sold for every $10,000 spent?
- *    which channel has the most influence on volume?
+    *  what  is the Predicted units sold based on ad spend by channel level(high/medium/low)?
+    *   what is the marginal increase in units sold for every $10,000 spent?
+    *    which channel has the most influence on volume?
    
 ## Why This Matters:
 
@@ -20,6 +20,14 @@ My dataset's name is advirtising sales Dataset. I found this dataset on Kaggle, 
 ## Link
 
 https://www.kaggle.com/datasets/yasserh/advertising-sales-dataset
+
+## Dataset information
+
+* 200 rows
+* 4 columns
+* Little to No cleaning needed
+* changes to the column names and values needed
+* combining the three Ad budget columns to make total ad budget columns
 
 ## Key Variables I Expect to Use:
 
