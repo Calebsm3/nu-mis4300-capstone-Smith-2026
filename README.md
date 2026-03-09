@@ -17,6 +17,10 @@ this matters becuase a lot of companies put a lot of money into these advirtisem
 
 My dataset's name is advirtising sales Dataset. I found this dataset on Kaggle, and it is a CSV file.
 
+## Cleaned dataset
+
+I made a new cleaned dataset that has changed the name of sales to sales units and has added some new columns for analysis
+
 ## Link
 
 https://www.kaggle.com/datasets/yasserh/advertising-sales-dataset
