@@ -60,6 +60,16 @@ Several new variables were created to improve the analysis, including:
 
 Advertising spend levels were created using quantile binning to categorize budgets into three equal groups. This allows the analysis to examine how different spending tiers impact sales performance
   
-## Next steps:
+## Analysis and comparison
 
-My next few steps is to Clean and explore the dataset (summary statistics, correlations, visualizations), Fit a multiple linear regression model and Evaluate model performance.
+for this section, I first made a comparison for all 3 advirtising columns and compared them to sales. I then went and made three models to see which one is the most accurate and which one has the least amount of mistakes.
+the three models I used where:
+* Linear Regression
+
+* Random Forest Regression
+
+* Decision Tree Regression
+
+With this information, I found that the Random forest was both the highest for my R2(accuracy) and the lowest for my MAE(Mistakes)
+I then made a bar graph for the R2 and MAE.
+ 
