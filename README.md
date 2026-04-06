@@ -59,8 +59,25 @@ Several new variables were created to improve the analysis, including:
    * Advertising spend levels (low, medium, high) for each channel
 
 Advertising spend levels were created using quantile binning to categorize budgets into three equal groups. This allows the analysis to examine how different spending tiers impact sales performance
+
+## Exploratory Analysis
+
+Scatter plots showed:
+
+* TV advertising has the strongest relationship with sales
+  
+* Radio has a moderate relationship
+  
+* Newspaper has the weakest relationship
   
 ## Analysis and comparison
+
+Progress Update
+
+* Added Decision Tree and Random Forest models
+* Performed model comparison using R² and MAE
+* Identified Random Forest as the best-performing model
+* Improved overall model accuracy and insights
 
 for this section, I first made a comparison for all 3 advirtising columns and compared them to sales. I then went and made three models to see which one is the most accurate and which one has the least amount of mistakes.
 the three models I used where:
@@ -70,6 +87,35 @@ the three models I used where:
 
 * Decision Tree Regression
 
+I then did a comparison of the 3 using R2 and MAE and these where the results were:
+
+
+* Linear Regression
+  
+R2: 0.899
+MAE: 1.461
+
+* Decision Tree Regressor
+  
+ R2: 0.931
+MAE: 0.985
+
+* Random Forest Regressor
+  
+R2: 0.981
+MAE: 0.620
+
+
 With this information, I found that the Random forest was both the highest for my R2(accuracy) and the lowest for my MAE(Mistakes)
 I then made a bar graph for the R2 and MAE.
+
+## Overview of exploratory and comparison analysis
+
+* TV advertising is the most influential predictor of sales
+  
+* Newspaper advertising has the weakest impact
+  
+* More complex models (Decision Tree, Random Forest) outperform Linear Regression
+  
+* Random Forest provides the most consistent and reliable predictions
  
