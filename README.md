@@ -118,4 +118,13 @@ I then made a bar graph for the R2 and MAE.
 * More complex models (Decision Tree, Random Forest) outperform Linear Regression
   
 * Random Forest provides the most consistent and reliable predictions
+
+
+## Importance measurements
+
+ * I found that the most important ad to spend money on was Tv by far especially in the long run
+ * I also found that the most important for a short term boost is the radio
+ * newspaper was pretty low and should not be used near the other 2
+
+
  
